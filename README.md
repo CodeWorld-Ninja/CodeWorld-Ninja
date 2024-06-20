@@ -14,7 +14,7 @@ Energetic software engineer and innovative optimized solution seeker with 5+ yea
 ### About Me
 
 - 📊 Self-taught Software Engineer since the age of 16.
-- ⚡️ Currently contributing to multiple freelance projects.
+- ⚡️ Currently contributing to multiple big projects.
 - 👨‍💻 Really enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love to travel.
 
