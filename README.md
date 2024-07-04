@@ -24,14 +24,14 @@ Energetic software engineer and innovative optimized solution seeker with 5+ yea
   <a href="https://github.com/codeworld-ninja/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=codeninja&count_private=true&show_icons=true&custom_title=CodeNinja's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=codeworld-ninja&count_private=true&show_icons=true&custom_title=CodeNinja's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
   <a href="https://github.com/codeworld-ninja/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeworld-ninja&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
